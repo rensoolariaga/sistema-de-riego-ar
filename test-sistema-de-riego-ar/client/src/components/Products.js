@@ -920,7 +920,7 @@ export default function Productos() {
             <Modal.Title>Conectores</Modal.Title>
           </Modal.Header>
           <Modal.Body>
-            <img src="" className="ifr" alt="no image" />
+            <img src="" className="ifr" alt="error" />
           </Modal.Body>
         </Modal>
 
